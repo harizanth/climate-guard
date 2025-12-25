@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of CLIMATE GUARD",
+  "description": "Real-Time Disaster Management System with AI-powered weather tracking, disaster reporting, and emergency guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
